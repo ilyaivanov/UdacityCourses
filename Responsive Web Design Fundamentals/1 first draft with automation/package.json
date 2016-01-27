@@ -1,0 +1,15 @@
+{
+  "name": "classes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "scripts": {
+    "serve":"node_modules/.bin/gulp.cmd serve"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "browser-sync": "^2.11.1",
+    "gulp": "^3.9.0"
+  }
+}
